@@ -13,3 +13,4 @@ else:
 print("Student Name:", name)
 print("Marks:", marks)
 print("Grade:", grade)
+print("Result:", result)
